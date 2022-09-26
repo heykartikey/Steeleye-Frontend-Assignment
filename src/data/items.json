@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "android",
+      "text": "Android"
+    },
+    {
+      "id": "bosch",
+      "text": "Bosch"
+    },
+    {
+      "id": "casket",
+      "text": "Casket"
+    },
+    {
+      "id": "doughnut",
+      "text": "Doughnut"
+    }
+  ]
+}
